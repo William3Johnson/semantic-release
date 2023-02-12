@@ -58,7 +58,7 @@
     "dockerode": "3.3.4",
     "file-url": "3.0.0",
     "fs-extra": "9.1.0",
-    "got": "11.8.5",
+    "got": "12.5.3",
     "js-yaml": "4.1.0",
     "mockserver-client": "5.14.0",
     "nock": "13.2.9",
@@ -67,7 +67,7 @@
     "stream-buffers": "3.0.2",
     "tempy": "1.0.1",
     "testdouble": "3.16.6",
-    "xo": "0.32.1"
+    "xo": "0.53.1"
   },
   "engines": {
     "node": ">=16 || ^14.17"
